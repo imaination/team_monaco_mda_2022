@@ -1,0 +1,14 @@
+﻿index,abbrev,default,agriculture,chemicals,construction materials,electric power,food and beverage,mining,oil and gas,semiconductor,textile
+baseline water stress,bws_score,4,4,2,2,4,4,2,1,2,2
+baseline water depletion,bwd_score,4,4,2,2,4,4,2,1,2,2
+interannual variability,iav_score,0.5,2,1,0.5,1,1,1,0.5,1,1
+seasonal variability,sev_score,0.5,0.5,1,0.5,2,0.5,1,0.5,1,0.5
+groundwater table decline,gtd_score,4,4,2,2,0.5,4,2,1,2,2
+riverine flood risk,rfr_score,1,1,4,1,2,0.5,4,1,1,1
+coastal flood risk,cfr_score,1,1,4,1,4,0.5,4,4,1,2
+drought risk,drr_score,2,4,2,1,4,2,4,0.5,1,1
+untreated connected wastewater,ucw_score,2,1,2,1,0.25,2,0.5,0.25,4,4
+coastal eutrophication potential,cep_score,1,4,0.25,0.5,1,2,0.25,0,2,1
+unimproved/no drinking water,udw_score,2,2,2,1,0.25,1,4,4,1,2
+unimproved/no sanitation,usa_score,2,2,2,1,0.25,1,4,4,1,2
+peak reprisk country ESG risk index,rri_score,0.5,0.25,2,0.5,0.25,2,4,4,2,4

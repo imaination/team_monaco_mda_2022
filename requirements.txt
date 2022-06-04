@@ -4,6 +4,7 @@ argon2-cffi-bindings @ file:///opt/concourse/worker/volumes/live/42cf1b28-e71f-4
 asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bayesian-optimization==1.2.0
 beautifulsoup4 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_croot-cdiouih5/beautifulsoup4_1650462164803/work
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 Bottleneck @ file:///opt/concourse/worker/volumes/live/220f0b56-5355-4122-6705-41fcd18e285c/volume/bottleneck_1648028927947/work

@@ -4,8 +4,8 @@ Project Structure:
 
 Data:
 1) us_state_2019.xlsx
-2) cbp20cd.csv (not the xlsx one)
-3) Final_aggregated(NO_HAWAII).csv <- should be changed with data made by predicting NAs
+2) cbp20cd.csv
+3) water_scores.csv
 4) lot_lan.csv # geo coordinate data
 5) industry_risks.csv  # weigths defined by user data
 6) Aqueduct Water Risk.zip # raw water score data

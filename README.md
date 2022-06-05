@@ -13,10 +13,9 @@ Data:
 8) Predicted_Aqueduct_Water_Risk.csv.zip
 
 Code:
-1) industry_preprocessing.ipynb # Preprocessing
-1.5) Data_processing_water_backup.ipynb <- remove if data is made by predicting NAs
+1) industry_preprocessing.ipynb
 2) Missing value prediction for water risk.ipynb
-3) pca_clustering_mda.ipynb # PCA & Clustering
+3) pca_clustering_mda.ipynb
 
 
 requirements.txt
